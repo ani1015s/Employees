@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeDirect.props" />
+</Project>

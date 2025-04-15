@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "+zKcXsTSd5Atxt2a6vYYKBuk0J7QIuNrHgwu0F+Maz0=",
+  "Source": "EmployeeDirect",
+  "BasePath": "_content/EmployeeDirect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeDirect\\wwwroot",
+      "Source": "EmployeeDirect",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\site.css",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cimp2f90k",
+      "Integrity": "qMinUiBmUl/HdM6SG5CTQCPgmTsbUHwF4LqLpxbJuoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\styles.css",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qj2e6ukfl",
+      "Integrity": "XlbM+Ir+bq54f122U3sjtMN1zE5vA1JMr2Y5klWPEPI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\departments.html",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "departments#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "25p6pyxdls",
+      "Integrity": "xpUu1PMV0dQygw+q1/g7yVDGE+PXPoHin/Q27ktoMdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\departments.html"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\directory.html",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "directory#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9lc2f185xe",
+      "Integrity": "w4D6LkHMzt3Sh0/blj4iGlmHuDCg/s8inywJ7XyPisA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\directory.html"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\index.html",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dfrdshi8nl",
+      "Integrity": "55MHPqx9xuTJ6MBMFGrsX45nmuBFdLReM99OtE/EDxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\app.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dja5urwwak",
+      "Integrity": "me6HEXFbOHZMb6t0rEZaZLaXKt/4C6aA2BVLTJvmkUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\config.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/config#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p1uxz70fgf",
+      "Integrity": "XVWFNiZW6UFgS4CYKKa/ljj3H7JH7ENZqhJVjSq4DEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\config.js"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\directory.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/directory#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e3zi3b80hn",
+      "Integrity": "KvHEua2/iU9aBNihtPWu7/8hXT5Ec3Lb90GBea1gkUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\directory.js"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\theme.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/theme#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mwkmiqkp8t",
+      "Integrity": "Vo1vFuY8L5htlz5CLLs8Bnj4iunN3uN4lOB0L3DwZAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\theme.js"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\themeManager.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/themeManager#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pxhsnxo29e",
+      "Integrity": "zeSXob361aEP3HfUhKbgAr70N4mloDWERMjDc5XMR4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\themeManager.js"
+    },
+    {
+      "Identity": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\utils.js",
+      "SourceId": "EmployeeDirect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\",
+      "BasePath": "_content/EmployeeDirect",
+      "RelativePath": "js/utils#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "secpakxvmq",
+      "Integrity": "7ArgcPyant7efNbNVYc7qxWKBgMj8t00iJbjt7NaDI8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\utils.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.8cimp2f90k.css",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qMinUiBmUl/HdM6SG5CTQCPgmTsbUHwF4LqLpxbJuoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cimp2f90k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMinUiBmUl/HdM6SG5CTQCPgmTsbUHwF4LqLpxbJuoU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qMinUiBmUl/HdM6SG5CTQCPgmTsbUHwF4LqLpxbJuoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMinUiBmUl/HdM6SG5CTQCPgmTsbUHwF4LqLpxbJuoU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.6qj2e6ukfl.css",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlbM+Ir+bq54f122U3sjtMN1zE5vA1JMr2Y5klWPEPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qj2e6ukfl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlbM+Ir+bq54f122U3sjtMN1zE5vA1JMr2Y5klWPEPI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlbM+Ir+bq54f122U3sjtMN1zE5vA1JMr2Y5klWPEPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlbM+Ir+bq54f122U3sjtMN1zE5vA1JMr2Y5klWPEPI="
+        }
+      ]
+    },
+    {
+      "Route": "departments.25p6pyxdls.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\departments.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpUu1PMV0dQygw+q1/g7yVDGE+PXPoHin/Q27ktoMdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25p6pyxdls"
+        },
+        {
+          "Name": "label",
+          "Value": "departments.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpUu1PMV0dQygw+q1/g7yVDGE+PXPoHin/Q27ktoMdg="
+        }
+      ]
+    },
+    {
+      "Route": "departments.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\departments.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpUu1PMV0dQygw+q1/g7yVDGE+PXPoHin/Q27ktoMdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpUu1PMV0dQygw+q1/g7yVDGE+PXPoHin/Q27ktoMdg="
+        }
+      ]
+    },
+    {
+      "Route": "directory.9lc2f185xe.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\directory.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4D6LkHMzt3Sh0/blj4iGlmHuDCg/s8inywJ7XyPisA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9lc2f185xe"
+        },
+        {
+          "Name": "label",
+          "Value": "directory.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4D6LkHMzt3Sh0/blj4iGlmHuDCg/s8inywJ7XyPisA="
+        }
+      ]
+    },
+    {
+      "Route": "directory.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\directory.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4D6LkHMzt3Sh0/blj4iGlmHuDCg/s8inywJ7XyPisA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4D6LkHMzt3Sh0/blj4iGlmHuDCg/s8inywJ7XyPisA="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfrdshi8nl.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"55MHPqx9xuTJ6MBMFGrsX45nmuBFdLReM99OtE/EDxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfrdshi8nl"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-55MHPqx9xuTJ6MBMFGrsX45nmuBFdLReM99OtE/EDxQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"55MHPqx9xuTJ6MBMFGrsX45nmuBFdLReM99OtE/EDxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:16:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-55MHPqx9xuTJ6MBMFGrsX45nmuBFdLReM99OtE/EDxQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.dja5urwwak.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"me6HEXFbOHZMb6t0rEZaZLaXKt/4C6aA2BVLTJvmkUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:01:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dja5urwwak"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-me6HEXFbOHZMb6t0rEZaZLaXKt/4C6aA2BVLTJvmkUc="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"me6HEXFbOHZMb6t0rEZaZLaXKt/4C6aA2BVLTJvmkUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 06:01:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-me6HEXFbOHZMb6t0rEZaZLaXKt/4C6aA2BVLTJvmkUc="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XVWFNiZW6UFgS4CYKKa/ljj3H7JH7ENZqhJVjSq4DEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVWFNiZW6UFgS4CYKKa/ljj3H7JH7ENZqhJVjSq4DEI="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.p1uxz70fgf.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XVWFNiZW6UFgS4CYKKa/ljj3H7JH7ENZqhJVjSq4DEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p1uxz70fgf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/config.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVWFNiZW6UFgS4CYKKa/ljj3H7JH7ENZqhJVjSq4DEI="
+        }
+      ]
+    },
+    {
+      "Route": "js/directory.e3zi3b80hn.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\directory.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvHEua2/iU9aBNihtPWu7/8hXT5Ec3Lb90GBea1gkUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e3zi3b80hn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/directory.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvHEua2/iU9aBNihtPWu7/8hXT5Ec3Lb90GBea1gkUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/directory.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\directory.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvHEua2/iU9aBNihtPWu7/8hXT5Ec3Lb90GBea1gkUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvHEua2/iU9aBNihtPWu7/8hXT5Ec3Lb90GBea1gkUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/theme.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\theme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vo1vFuY8L5htlz5CLLs8Bnj4iunN3uN4lOB0L3DwZAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vo1vFuY8L5htlz5CLLs8Bnj4iunN3uN4lOB0L3DwZAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/theme.mwkmiqkp8t.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\theme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vo1vFuY8L5htlz5CLLs8Bnj4iunN3uN4lOB0L3DwZAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwkmiqkp8t"
+        },
+        {
+          "Name": "label",
+          "Value": "js/theme.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vo1vFuY8L5htlz5CLLs8Bnj4iunN3uN4lOB0L3DwZAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/themeManager.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\themeManager.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zeSXob361aEP3HfUhKbgAr70N4mloDWERMjDc5XMR4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zeSXob361aEP3HfUhKbgAr70N4mloDWERMjDc5XMR4I="
+        }
+      ]
+    },
+    {
+      "Route": "js/themeManager.pxhsnxo29e.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\themeManager.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zeSXob361aEP3HfUhKbgAr70N4mloDWERMjDc5XMR4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxhsnxo29e"
+        },
+        {
+          "Name": "label",
+          "Value": "js/themeManager.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zeSXob361aEP3HfUhKbgAr70N4mloDWERMjDc5XMR4I="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ArgcPyant7efNbNVYc7qxWKBgMj8t00iJbjt7NaDI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ArgcPyant7efNbNVYc7qxWKBgMj8t00iJbjt7NaDI8="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.secpakxvmq.js",
+      "AssetFile": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ArgcPyant7efNbNVYc7qxWKBgMj8t00iJbjt7NaDI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "secpakxvmq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utils.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ArgcPyant7efNbNVYc7qxWKBgMj8t00iJbjt7NaDI8="
+        }
+      ]
+    }
+  ]
+}

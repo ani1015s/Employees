@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\departments.html",
+      "PackagePath": "staticwebassets\\departments.html"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\directory.html",
+      "PackagePath": "staticwebassets\\directory.html"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\directory.js",
+      "PackagePath": "staticwebassets\\js\\directory.js"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\themeManager.js",
+      "PackagePath": "staticwebassets\\js\\themeManager.js"
+    },
+    {
+      "Id": "C:\\Users\\2395520\\Downloads\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\EmployeeDirect\\wwwroot\\js\\utils.js",
+      "PackagePath": "staticwebassets\\js\\utils.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeDirect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeDirect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeDirect.props",
+      "PackagePath": "build\\EmployeeDirect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeDirect.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeDirect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeDirect.props",
+      "PackagePath": "buildTransitive\\EmployeeDirect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
